@@ -13,7 +13,7 @@ function App() {
   ])
   console.log('start', 'todos', todos)
   function toggleTodo(id) {
-    console.log('id', id)
+    // console.log('id', id)
 
     setTodos(
       todos.map((todo) => {
