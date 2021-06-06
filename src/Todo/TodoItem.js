@@ -20,7 +20,7 @@ const styles = {
 function TodoItem({ todo, index, onChange }) {
   const { removeTodo } = useContext(Context)
   let classes = []
-  // console.log('todo.completed', todo.completed)
+  console.log('todo.completed', todo.completed)
   if (todo.completed) {
     classes.push('done')
   }
