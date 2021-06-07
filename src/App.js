@@ -12,9 +12,8 @@ function App() {
     { id: 2, completed: false, title: 'Купить масло' },
   ])
   console.log('start', 'todos', todos)
-  function toggleTodo(id) {
-    // console.log('id', id)
 
+  function toggleTodo(id) {
     setTodos(
       todos.map((todo) => {
         if (todo.id === id) {
