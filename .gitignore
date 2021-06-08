@@ -21,3 +21,12 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json
+package.json
+setupTests.js
+reportWebVitals.js
+logo.svg
+styleTrying.html
+App.test.js
+App.css
+public
