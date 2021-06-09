@@ -29,4 +29,7 @@ logo.svg
 styleTrying.html
 App.test.js
 App.css
-public
+public/logo192.png
+public/logo512.png
+public/manifest.json
+public/favicon.ico
